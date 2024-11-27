@@ -11,6 +11,7 @@ valuable insights into the evolution of packages.
 
 * [How to contribute](CONTRIBUTING.md)
 * [Our Code of Conduct](CODE_OF_CONDUCT.md)
+* [Security Policy](SECURITY.md)
 * [License](LICENSE.md)
 
 ## Questions?
