@@ -1,6 +1,6 @@
-# Contributing to Package Transaction History
+# Contributing to Package Transaction Log
 
-Thank you for your interest in contributing to the Package Transaction History
+Thank you for your interest in contributing to the Package Transaction Log
 project! Your contributions are a valuable asset in making this a helpful
 resource for the open-source community.
 
@@ -29,7 +29,7 @@ Here are a few different ways you can contribute:
    feature, or have found a bug, please create a new issue in the repository.
    Use clear and descriptive titles.
 
-3. **Fork the Repository:** Fork the 'Package Transaction History' repository to your own
+3. **Fork the Repository:** Fork the 'Package Transaction Log' repository to your own
    GitHub account.
 
 4. **Create a Branch:** Create a new branch based off the `main` branch. Give
@@ -43,7 +43,7 @@ Here are a few different ways you can contribute:
    work as intended and don't break any existing functionality.
 
 7. **Submit a Pull Request:** Once you are satisfied with your changes, open a
-   pull request (PR) against the original 'Package Transaction History' repository.
+   pull request (PR) against the original 'Package Transaction Log' repository.
    Provide a clear description of your changes and why they are beneficial in
    the PR description.
 
@@ -58,4 +58,4 @@ interactions adhere to the project's standards.
 If you have any questions or need guidance along the way, feel free to open an
 issue or reach out to the project maintainers.
 
-**Thank you for your interest in making Package Transaction History even better!**
+**Thank you for your interest in making Package Transaction Log even better!**
