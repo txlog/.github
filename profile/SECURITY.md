@@ -1,7 +1,7 @@
 # Security Policy
 
-We take the security of the Package Transaction Log project seriously. If you
-believe you have discovered a security vulnerability, we ask that you follow the
+We take the security of the Transaction Log project seriously. If you believe
+you have discovered a security vulnerability, we ask that you follow the
 guidelines below for responsible disclosure.
 
 ## Reporting a Vulnerability
@@ -12,7 +12,7 @@ guidelines below for responsible disclosure.
 2. **Provide details.** In your report, please include the following
    information:
     * Description of the vulnerability, including the potential impact.
-    * Affected versions of Package Transaction Log.
+    * Affected versions of Transaction Log.
     * Steps to reproduce the vulnerability (if possible).
     * Any proof-of-concept code you may have.
 
@@ -44,5 +44,4 @@ Transaction Log project and its users.
   excessive load and potentially disrupt the project.
 * This security policy may be revised over time as needed.
 
-**Thank you for your help in keeping the Package Transaction Log project
-secure!**
+**Thank you for your help in keeping the Transaction Log project secure!**
