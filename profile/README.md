@@ -1,7 +1,7 @@
 # Transaction Log
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <p align="center"><img src="logbbook.png" alt="The Logo"></p>
+  <p align="center"><img width="100" height="100" src="https://raw.githubusercontent.com/txlog/.github/refs/heads/main/profile/logbook.png" alt="The Logo"></p>
   <p align="center"><strong>Track RPM transactions on your datacenter</strong></p>
   <p align="center">
     <a href="https://semver.org"><img src="https://img.shields.io/badge/SemVer-2.0.0-22bfda.svg" alt="SemVer Format"></a>
