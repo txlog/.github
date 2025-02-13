@@ -19,6 +19,15 @@ valuable insights into the evolution of packages.
 * [Security Policy](SECURITY.md)
 * [License](LICENSE.md)
 
+> [!WARNING]
+> This repository is under active development and may introduce breaking changes at any time. Please note:
+>
+> - The codebase is evolving rapidly
+> - Breaking changes may occur between commits
+> - API stability is not guaranteed
+> - Regular updates are recommended to stay current
+> - Check the changelog before updating
+
 ## Questions?
 
 If you have any questions or need guidance along the way, feel free to open an
