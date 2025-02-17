@@ -18,6 +18,7 @@ valuable insights into the evolution of packages.
 * [Our Code of Conduct](CODE_OF_CONDUCT.md)
 * [Security Policy](SECURITY.md)
 * [License](LICENSE.md)
+* [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10031/badge)](https://www.bestpractices.dev/projects/10031)
 
 > [!WARNING]
 > This repository is under active development and may introduce breaking changes at any time. Please note:
