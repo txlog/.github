@@ -6,6 +6,7 @@
   <p align="center">
     <a href="https://semver.org"><img src="https://img.shields.io/badge/SemVer-2.0.0-22bfda.svg" alt="SemVer Format"></a>
     <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a>
+    <a href="https://www.bestpractices.dev/projects/10031"><img src="https://www.bestpractices.dev/projects/10031/badge"></a>
   </p>
 </p>
 
@@ -18,7 +19,6 @@ valuable insights into the evolution of packages.
 * [Our Code of Conduct](CODE_OF_CONDUCT.md)
 * [Security Policy](SECURITY.md)
 * [License](LICENSE.md)
-* [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10031/badge)](https://www.bestpractices.dev/projects/10031)
 
 > [!WARNING]
 > This repository is under active development and may introduce breaking changes at any time. Please note:
